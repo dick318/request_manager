@@ -11,7 +11,7 @@ setup(
         'request_manager': ['*.js'],
     },
     install_requires=[
-        'curl_cffi==0.7.3',
+        'curl_cffi==0.10.0',
         'schedule==1.2.2',
         'PyExecJS==1.5.1'
     ],
