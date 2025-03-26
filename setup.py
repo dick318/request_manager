@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='request_manager',
-    version='1.1',
+    version='1.2',
     packages=find_packages(),
     include_package_data=True,  # 这一行确保包含非 Python 文件
     package_data={
